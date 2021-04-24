@@ -1,1 +1,1 @@
-console.log(1000);
+console.log(x+y);
